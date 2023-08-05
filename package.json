@@ -21,5 +21,9 @@
   },
   "devDependencies": {
     "microbundle": "^0.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ https://github.com/Tariq-Chang/styled-ui-lib.git"
   }
 }
